@@ -1,0 +1,13 @@
+cryptography
+django
+djangorestframework
+django-settings-object
+docutils
+easykube
+httpx
+jasmin-ldap
+python-dateutil
+pyyaml
+rackit
+requests
+voluptuous
